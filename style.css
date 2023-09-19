@@ -1,11 +1,15 @@
 body {
-      background: #cccccc;
+      
 }
 
   #banner {
   }
+  
+.principal {
+    background: #cccccc;
+}
 
-  h1 {
+h1 {
       text-aling: center;
   }
 p {
@@ -23,6 +27,13 @@ em strong
     color: #FF0000;
 }
 
-.itens {
+.beneficios{
+background: #FFFFFF;
+}
+
+.itens {      
 font-style: italic;
 }
+
+
+
